@@ -37,7 +37,7 @@ SasHealthcareIndia/
 │           ├── login.jsp
 │           ├── signup.jsp
 │           └── dashboard.jsp
-└── pom.xml
+└── README.md
 ```
 
 ## 4. Setup and Installation
